@@ -1,0 +1,3 @@
+export const ACTION_ACTION_TYPES = {
+    ADD_SELECTED: 'ADD_SELECTED'
+};
